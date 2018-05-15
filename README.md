@@ -1,5 +1,5 @@
 # Gulp for Docker #
-Ephemeral Docker container for installing Node modules, and running Gulp commands (such as `gulp watch`).
+Ephemeral Docker container for installing Node modules, and running Gulp commands. If no command is specified, defaults to running `gulp watch`.
 
 ## Typical usage ##
 
